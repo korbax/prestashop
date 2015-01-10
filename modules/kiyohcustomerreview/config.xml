@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>kiyohcustomerreview</name>
+	<displayName><![CDATA[KiyOh Customer Review]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[KiyOh.nl users can use this plug-in automatically collect customer reviews]]></description>
+	<author><![CDATA[Interactivated.me]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
